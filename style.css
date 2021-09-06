@@ -9,8 +9,10 @@
     }
     
     .background {
+        background-color: black;
         background-image: url(birthday.jpg);
-        background-size: 105vw;
+        background-repeat: no-repeat;
+        background-size: 100vw;
         text-align: center;
     }
     
@@ -21,6 +23,5 @@
     
     .push_here {
         background-color: black;
-        background-size: 100vw;
         text-align: center;
     }
