@@ -1,0 +1,26 @@
+    button {
+        background: gold;
+        padding: 1em 1em;
+        border: black 2px solid;
+        text-decoration: none;
+        color: black;
+        font-size: 1.5em;
+        font-family: sans-serif;
+    }
+    
+    .background {
+        background-image: url(birthday.jpg);
+        background-size: 100vw;
+        text-align: center;
+    }
+    
+    h1 {
+        color: white;
+        position: relative;
+    }
+    
+    .push_here {
+        background-color: black;
+        background-size: 100vw;
+        text-align: center;
+    }
