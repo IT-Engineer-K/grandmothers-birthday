@@ -22,4 +22,4 @@ const countUp = () => {
         requestAnimationFrame(confettiAnime)
     }, 1000)
 })()
-setInterval(countUp, 40)
+setInterval(countUp, 100)
